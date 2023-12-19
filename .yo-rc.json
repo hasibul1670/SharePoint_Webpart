@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.18.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "employee-form",
+    "libraryId": "672b6dfc-e35f-4b95-833f-1d536f5cbac1",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "EmployeeForm",
+    "solutionShortDescription": "EmployeeForm description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
