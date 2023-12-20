@@ -1,6 +1,6 @@
 @import '~@fluentui/react/dist/sass/References.scss';
 
-.employeeForm {
+.employeeList {
   overflow: hidden;
   padding: 1em;
   color: "[theme:bodyText, default: #323130]";
@@ -32,28 +32,3 @@
     }
   }
 }
-
-
-// styles.scss
-.form-container {
-  max-width: 30rem;
-  margin: auto;
-  margin-top: 2rem;
-  padding: 1.5rem;
-  background-color: #fff;
-  border-radius: 0.25rem;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-
-  .form-input {
-    width: 100%;
-    margin-bottom: 1rem;
-  }
-
-  .form-button {
-    width: 100%;
-    margin-top: 1rem;
-  }
-
-  // Add more nested styles as needed
-}
-
